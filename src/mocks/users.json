@@ -1,0 +1,237 @@
+[
+  {
+    "name": "John Doe",
+    "phone": "+1234567890",
+    "nickname": "johndoe123"
+  },
+  {
+    "name": "Jane Smith",
+    "phone": "+1987654321",
+    "nickname": "janesmith456"
+  },
+  {
+    "name": "Michael Johnson",
+    "phone": "+1122334455",
+    "nickname": "mikejohn"
+  },
+  {
+    "name": "Emily Brown",
+    "phone": "+1443322111",
+    "nickname": "em_brown"
+  },
+  {
+    "name": "Daniel Wilson",
+    "phone": "+1555666777",
+    "nickname": "dannyw"
+  },
+  {
+    "name": "Sarah Taylor",
+    "phone": "+1666777888",
+    "nickname": "saraht"
+  },
+  {
+    "name": "Christopher Martinez",
+    "phone": "+1777888999",
+    "nickname": "chrismtz"
+  },
+  {
+    "name": "Jessica Anderson",
+    "phone": "+1888999000",
+    "nickname": "jess_and"
+  },
+  {
+    "name": "Matthew Thomas",
+    "phone": "+1999000111",
+    "nickname": "matt_th"
+  },
+  {
+    "name": "Amanda Garcia",
+    "phone": "+1122334455",
+    "nickname": "amandag"
+  },
+  {
+    "name": "David Hernandez",
+    "phone": "+1223344556",
+    "nickname": "daveh"
+  },
+  {
+    "name": "Ashley Lopez",
+    "phone": "+1334455667",
+    "nickname": "ash_lopez"
+  },
+  {
+    "name": "James Gonzalez",
+    "phone": "+1445566778",
+    "nickname": "jimmyg"
+  },
+  {
+    "name": "Jennifer Perez",
+    "phone": "+1556677889",
+    "nickname": "jenn_p"
+  },
+  {
+    "name": "Robert Rodriguez",
+    "phone": "+1667788990",
+    "nickname": "robrod"
+  },
+  {
+    "name": "Linda Martinez",
+    "phone": "+1778899001",
+    "nickname": "lindam"
+  },
+  {
+    "name": "William Lee",
+    "phone": "+1889900112",
+    "nickname": "willylee"
+  },
+  {
+    "name": "Maria Hernandez",
+    "phone": "+1990011223",
+    "nickname": "maria_h"
+  },
+  {
+    "name": "Richard White",
+    "phone": "+1223344556",
+    "nickname": "rich_white"
+  },
+  {
+    "name": "Kimberly King",
+    "phone": "+1334455667",
+    "nickname": "kim_king"
+  },
+  {
+    "name": "Charles Scott",
+    "phone": "+1445566778",
+    "nickname": "charlesc"
+  },
+  {
+    "name": "Karen Green",
+    "phone": "+1556677889",
+    "nickname": "kareng"
+  },
+  {
+    "name": "Joseph Adams",
+    "phone": "+1667788990",
+    "nickname": "joey_adams"
+  },
+  {
+    "name": "Nancy Baker",
+    "phone": "+1778899001",
+    "nickname": "nancyb"
+  },
+  {
+    "name": "Daniel Walker",
+    "phone": "+1889900112",
+    "nickname": "dwalker"
+  },
+  {
+    "name": "Margaret Hall",
+    "phone": "+1990011223",
+    "nickname": "marg_hall"
+  },
+  {
+    "name": "Kevin Nelson",
+    "phone": "+1223344556",
+    "nickname": "kev_nelson"
+  },
+  {
+    "name": "Dorothy Carter",
+    "phone": "+1334455667",
+    "nickname": "dorothy_c"
+  },
+  {
+    "name": "Ryan Mitchell",
+    "phone": "+1445566778",
+    "nickname": "ryanm"
+  },
+  {
+    "name": "Karen Perez",
+    "phone": "+1556677889",
+    "nickname": "karen_p"
+  },
+  {
+    "name": "Jason Roberts",
+    "phone": "+1667788990",
+    "nickname": "jasonr"
+  },
+  {
+    "name": "Betty Turner",
+    "phone": "+1778899001",
+    "nickname": "bettyt"
+  },
+  {
+    "name": "Dennis Phillips",
+    "phone": "+1889900112",
+    "nickname": "dennisp"
+  },
+  {
+    "name": "Carolyn Evans",
+    "phone": "+1990011223",
+    "nickname": "carol_e"
+  },
+  {
+    "name": "Deborah Collins",
+    "phone": "+1223344556",
+    "nickname": "debcoll"
+  },
+  {
+    "name": "George Stewart",
+    "phone": "+1334455667",
+    "nickname": "georgest"
+  },
+  {
+    "name": "Bruce Sanchez",
+    "phone": "+1445566778",
+    "nickname": "bruce_s"
+  },
+  {
+    "name": "Sharon Morris",
+    "phone": "+1556677889",
+    "nickname": "sharonm"
+  },
+  {
+    "name": "Terry Rogers",
+    "phone": "+1667788990",
+    "nickname": "terryr"
+  },
+  {
+    "name": "Catherine Reed",
+    "phone": "+1778899001",
+    "nickname": "cathyreed"
+  },
+  {
+    "name": "Roger Cook",
+    "phone": "+1889900112",
+    "nickname": "roger_c"
+  },
+  {
+    "name": "Julie Morgan",
+    "phone": "+1990011223",
+    "nickname": "juliem"
+  },
+  {
+    "name": "Marilyn Bell",
+    "phone": "+1223344556",
+    "nickname": "marilyn_b"
+  },
+  {
+    "name": "Wayne Murphy",
+    "phone": "+1334455667",
+    "nickname": "waynem"
+  },
+  {
+    "name": "Billy Simmons",
+    "phone": "+1445566778",
+    "nickname": "billys"
+  },
+  {
+    "name": "Christine Perry",
+    "phone": "+1556677889",
+    "nickname": "chrisperry"
+  },
+  {
+    "name": "Phillip Bailey",
+    "phone": "+1667788990",
+    "nickname": "phillipb"
+  }
+]
